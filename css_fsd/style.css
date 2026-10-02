@@ -1,0 +1,20 @@
+body{
+    font-size: 20px;
+}
+.parent{
+    height: 600px;
+    width: 400px;
+    background-color: red;
+    fonr-size: 2rem;
+}
+.child{
+    height: 50%;
+    width:50%;
+    background-color: yellow;
+    font-size: 2rem;
+}
+#div1{
+    height:50vh;
+    width:100vw;
+    background-color: pink;
+}
