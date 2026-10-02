@@ -1,0 +1,53 @@
+.box{
+    background-color: blue;
+    font-size: 20px;
+    color:black;
+    text-transform: uppercase;
+}
+.heading{
+    color: red;
+}
+button{
+    background-color: green;
+}
+.para_class{
+    font-size: 20px;
+    color: purple;
+}
+#para_id{
+    font-size: 50px;
+    color: orange;
+}
+*{
+    color: blue;
+}
+h1{
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: light;
+    font-family: sans-serif;
+}
+h2{
+    text-decoration: underline;
+}
+*{
+    font-family: monospace;
+}
+#outer{
+    font-size: 25px;
+}
+#inner{
+    font-size: 10px;
+}
+a{
+    text-decoration: none;
+}
+#para1{
+    line-height: 1;
+}
+#para2{
+    line-height: 1.5;
+}
+#para3{
+    line-height: 2;
+}
