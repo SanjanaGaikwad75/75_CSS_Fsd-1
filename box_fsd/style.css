@@ -1,0 +1,40 @@
+nav{
+    background-color: #0f1111;
+    height: 60px;
+}
+#logo{
+    color:#f08804;
+}
+a{
+    color:white;
+    text-decoration: none;
+    margin: 80px;
+}
+#button{
+    background-color: #f08804;
+    color:white;
+}
+div{
+    border: 3px solid black;
+    height: 100px;
+    width: 100px;
+}
+#div1{
+    background-color: rgb(255, 124, 216);
+    opacity: 0.5;
+}
+#div2{
+    background-color: rgb(176, 119, 255);
+    opacity: 0.5;
+}
+#div3{
+    background-color: rgb(253, 239, 84);
+    opacity: 0.5;
+}
+main{
+    height: 500px;
+}
+footer{
+    background-color: black;
+    height: 40px;
+}
