@@ -1,0 +1,21 @@
+body{
+    font-size: 20px;
+}
+.parent{
+    height: 200px;
+    width: 400px;
+    background-color: rgb(248, 234, 108);
+    font-size: 2rem;
+}
+.child{
+    height: 50%;
+    width: 50%;
+    background-color: rgb(0, 153, 255);
+    font-size: 2em;
+}
+#div1{
+    height: 50vh;
+    width: 100vw;
+    background-color: rgb(241, 140, 199);
+    
+}
